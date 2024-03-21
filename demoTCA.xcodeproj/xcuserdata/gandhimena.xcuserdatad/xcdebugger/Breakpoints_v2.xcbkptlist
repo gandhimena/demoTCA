@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "898B7D7F-1A23-4C7D-86AB-0B8688A1CD4A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B34FD211-CAEE-4523-9EC2-29CA84480E93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoTCA/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAsteroids()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B34FD211-CAEE-4523-9EC2-29CA84480E93 - a37b708de79cff19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for demoTCA.HomeViewModel.getAsteroids() async -&gt; ()"
+                  moduleName = "demoTCA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gandhimena/Documents/Meetup/TCA/demoTCA/demoTCA/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B34FD211-CAEE-4523-9EC2-29CA84480E93 - fcaf507edc546376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for demoTCA.HomeViewModel.getAsteroids() async -&gt; ()"
+                  moduleName = "demoTCA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gandhimena/Documents/Meetup/TCA/demoTCA/demoTCA/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B34FD211-CAEE-4523-9EC2-29CA84480E93 - 6392d8aa4d0d9307"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for demoTCA.HomeViewModel.getAsteroids() async -&gt; ()"
+                  moduleName = "demoTCA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gandhimena/Documents/Meetup/TCA/demoTCA/demoTCA/Home/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6A60E4F-07AE-4AE0-B3FE-D5B362097706"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoTCA/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getAsteroids()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "186133A5-BCCE-4677-B02E-1ECBFABCAF6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demoTCA/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getAsteroids()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -14,6 +14,28 @@
 		FDA13A462B9D452B00676B0D /* demoTCATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A452B9D452B00676B0D /* demoTCATests.swift */; };
 		FDA13A502B9D452B00676B0D /* demoTCAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A4F2B9D452B00676B0D /* demoTCAUITests.swift */; };
 		FDA13A522B9D452B00676B0D /* demoTCAUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A512B9D452B00676B0D /* demoTCAUITestsLaunchTests.swift */; };
+		FDA13A5F2B9D47EC00676B0D /* HomeFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A5E2B9D47EC00676B0D /* HomeFeature.swift */; };
+		FDA13A612B9D47FC00676B0D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A602B9D47FC00676B0D /* HomeView.swift */; };
+		FDA13A672B9D489A00676B0D /* ApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A662B9D489A00676B0D /* ApiClient.swift */; };
+		FDA13A692B9D4B2500676B0D /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A682B9D4B2500676B0D /* Endpoints.swift */; };
+		FDA13A6B2B9D4B7C00676B0D /* NetworCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A6A2B9D4B7C00676B0D /* NetworCore.swift */; };
+		FDA13A702B9D5DFE00676B0D /* AsteroidResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A6F2B9D5DFE00676B0D /* AsteroidResponse.swift */; };
+		FDA13A722BA8E51D00676B0D /* AsteroidService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A712BA8E51D00676B0D /* AsteroidService.swift */; };
+		FDA13A752BA8E8B600676B0D /* Dependencies in Frameworks */ = {isa = PBXBuildFile; productRef = FDA13A742BA8E8B600676B0D /* Dependencies */; };
+		FDA13A772BA8E8B600676B0D /* DependenciesMacros in Frameworks */ = {isa = PBXBuildFile; productRef = FDA13A762BA8E8B600676B0D /* DependenciesMacros */; };
+		FDA13A7A2BA8F40900676B0D /* ViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A792BA8F40900676B0D /* ViewState.swift */; };
+		FDA13A7C2BA8FF3000676B0D /* AsteroidDetialResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A7B2BA8FF3000676B0D /* AsteroidDetialResponse.swift */; };
+		FDA13A812BA901E100676B0D /* MarsRoverService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A802BA901E100676B0D /* MarsRoverService.swift */; };
+		FDA13A842BA9611D00676B0D /* MarsRoverPhotosResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A832BA9611C00676B0D /* MarsRoverPhotosResponse.swift */; };
+		FDA13A862BA9632F00676B0D /* AsteroidDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A852BA9632F00676B0D /* AsteroidDetailView.swift */; };
+		FDA13A882BA9633800676B0D /* AsteroidDetailFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A872BA9633800676B0D /* AsteroidDetailFeature.swift */; };
+		FDA13A8B2BA9650B00676B0D /* MarsRoverListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A8A2BA9650B00676B0D /* MarsRoverListView.swift */; };
+		FDA13A8D2BA9651900676B0D /* MarsRoverListFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A8C2BA9651900676B0D /* MarsRoverListFeature.swift */; };
+		FDA13A902BA9658900676B0D /* ComposableArchitecture in Frameworks */ = {isa = PBXBuildFile; productRef = FDA13A8F2BA9658900676B0D /* ComposableArchitecture */; };
+		FDA13A932BA96B0200676B0D /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = FDA13A922BA96B0200676B0D /* Kingfisher */; };
+		FDA13A952BAAB3B400676B0D /* AsteroidListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A942BAAB3B400676B0D /* AsteroidListView.swift */; };
+		FDA13A982BAAB3D100676B0D /* AsteroidListFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A972BAAB3D100676B0D /* AsteroidListFeature.swift */; };
+		FDA13A9B2BAAC86B00676B0D /* AsteroidListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA13A9A2BAAC86B00676B0D /* AsteroidListTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +66,25 @@
 		FDA13A4B2B9D452B00676B0D /* demoTCAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demoTCAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDA13A4F2B9D452B00676B0D /* demoTCAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoTCAUITests.swift; sourceTree = "<group>"; };
 		FDA13A512B9D452B00676B0D /* demoTCAUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoTCAUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FDA13A5E2B9D47EC00676B0D /* HomeFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeFeature.swift; sourceTree = "<group>"; };
+		FDA13A602B9D47FC00676B0D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		FDA13A662B9D489A00676B0D /* ApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClient.swift; sourceTree = "<group>"; };
+		FDA13A682B9D4B2500676B0D /* Endpoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoints.swift; sourceTree = "<group>"; };
+		FDA13A6A2B9D4B7C00676B0D /* NetworCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworCore.swift; sourceTree = "<group>"; };
+		FDA13A6F2B9D5DFE00676B0D /* AsteroidResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidResponse.swift; sourceTree = "<group>"; };
+		FDA13A712BA8E51D00676B0D /* AsteroidService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidService.swift; sourceTree = "<group>"; };
+		FDA13A792BA8F40900676B0D /* ViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewState.swift; sourceTree = "<group>"; };
+		FDA13A7B2BA8FF3000676B0D /* AsteroidDetialResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidDetialResponse.swift; sourceTree = "<group>"; };
+		FDA13A802BA901E100676B0D /* MarsRoverService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarsRoverService.swift; sourceTree = "<group>"; };
+		FDA13A832BA9611C00676B0D /* MarsRoverPhotosResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarsRoverPhotosResponse.swift; sourceTree = "<group>"; };
+		FDA13A852BA9632F00676B0D /* AsteroidDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidDetailView.swift; sourceTree = "<group>"; };
+		FDA13A872BA9633800676B0D /* AsteroidDetailFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidDetailFeature.swift; sourceTree = "<group>"; };
+		FDA13A8A2BA9650B00676B0D /* MarsRoverListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarsRoverListView.swift; sourceTree = "<group>"; };
+		FDA13A8C2BA9651900676B0D /* MarsRoverListFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarsRoverListFeature.swift; sourceTree = "<group>"; };
+		FDA13A942BAAB3B400676B0D /* AsteroidListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidListView.swift; sourceTree = "<group>"; };
+		FDA13A972BAAB3D100676B0D /* AsteroidListFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidListFeature.swift; sourceTree = "<group>"; };
+		FDA13A992BAABC3000676B0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		FDA13A9A2BAAC86B00676B0D /* AsteroidListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsteroidListTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +92,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDA13A932BA96B0200676B0D /* Kingfisher in Frameworks */,
+				FDA13A772BA8E8B600676B0D /* DependenciesMacros in Frameworks */,
+				FDA13A752BA8E8B600676B0D /* Dependencies in Frameworks */,
+				FDA13A902BA9658900676B0D /* ComposableArchitecture in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +139,10 @@
 		FDA13A332B9D452900676B0D /* demoTCA */ = {
 			isa = PBXGroup;
 			children = (
+				FDA13A992BAABC3000676B0D /* Info.plist */,
+				FDA13A7D2BA8FFFA00676B0D /* Modules */,
+				FDA13A782BA8F3FE00676B0D /* Utils */,
+				FDA13A652B9D485B00676B0D /* Network */,
 				FDA13A342B9D452900676B0D /* demoTCAApp.swift */,
 				FDA13A362B9D452900676B0D /* ContentView.swift */,
 				FDA13A382B9D452B00676B0D /* Assets.xcassets */,
@@ -114,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				FDA13A452B9D452B00676B0D /* demoTCATests.swift */,
+				FDA13A9A2BAAC86B00676B0D /* AsteroidListTests.swift */,
 			);
 			path = demoTCATests;
 			sourceTree = "<group>";
@@ -125,6 +175,116 @@
 				FDA13A512B9D452B00676B0D /* demoTCAUITestsLaunchTests.swift */,
 			);
 			path = demoTCAUITests;
+			sourceTree = "<group>";
+		};
+		FDA13A622B9D480500676B0D /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A5E2B9D47EC00676B0D /* HomeFeature.swift */,
+				FDA13A602B9D47FC00676B0D /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		FDA13A652B9D485B00676B0D /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A6C2B9D5DC800676B0D /* Services */,
+				FDA13A662B9D489A00676B0D /* ApiClient.swift */,
+				FDA13A682B9D4B2500676B0D /* Endpoints.swift */,
+				FDA13A6A2B9D4B7C00676B0D /* NetworCore.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		FDA13A6C2B9D5DC800676B0D /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A7F2BA9018A00676B0D /* MarsRover */,
+				FDA13A6D2B9D5DDC00676B0D /* Asteroids */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		FDA13A6D2B9D5DDC00676B0D /* Asteroids */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A6E2B9D5DEA00676B0D /* Model */,
+				FDA13A712BA8E51D00676B0D /* AsteroidService.swift */,
+			);
+			path = Asteroids;
+			sourceTree = "<group>";
+		};
+		FDA13A6E2B9D5DEA00676B0D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A6F2B9D5DFE00676B0D /* AsteroidResponse.swift */,
+				FDA13A7B2BA8FF3000676B0D /* AsteroidDetialResponse.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FDA13A782BA8F3FE00676B0D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A792BA8F40900676B0D /* ViewState.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		FDA13A7D2BA8FFFA00676B0D /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A7E2BA9000A00676B0D /* AsteroidDetail */,
+				FDA13A962BAAB3BB00676B0D /* AsteroidList */,
+				FDA13A892BA964F500676B0D /* MarsRoverPhotoList */,
+				FDA13A622B9D480500676B0D /* Home */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		FDA13A7E2BA9000A00676B0D /* AsteroidDetail */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A872BA9633800676B0D /* AsteroidDetailFeature.swift */,
+				FDA13A852BA9632F00676B0D /* AsteroidDetailView.swift */,
+			);
+			path = AsteroidDetail;
+			sourceTree = "<group>";
+		};
+		FDA13A7F2BA9018A00676B0D /* MarsRover */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A822BA9610E00676B0D /* Model */,
+				FDA13A802BA901E100676B0D /* MarsRoverService.swift */,
+			);
+			path = MarsRover;
+			sourceTree = "<group>";
+		};
+		FDA13A822BA9610E00676B0D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A832BA9611C00676B0D /* MarsRoverPhotosResponse.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FDA13A892BA964F500676B0D /* MarsRoverPhotoList */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A8C2BA9651900676B0D /* MarsRoverListFeature.swift */,
+				FDA13A8A2BA9650B00676B0D /* MarsRoverListView.swift */,
+			);
+			path = MarsRoverPhotoList;
+			sourceTree = "<group>";
+		};
+		FDA13A962BAAB3BB00676B0D /* AsteroidList */ = {
+			isa = PBXGroup;
+			children = (
+				FDA13A972BAAB3D100676B0D /* AsteroidListFeature.swift */,
+				FDA13A942BAAB3B400676B0D /* AsteroidListView.swift */,
+			);
+			path = AsteroidList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,6 +303,12 @@
 			dependencies = (
 			);
 			name = demoTCA;
+			packageProductDependencies = (
+				FDA13A742BA8E8B600676B0D /* Dependencies */,
+				FDA13A762BA8E8B600676B0D /* DependenciesMacros */,
+				FDA13A8F2BA9658900676B0D /* ComposableArchitecture */,
+				FDA13A922BA96B0200676B0D /* Kingfisher */,
+			);
 			productName = demoTCA;
 			productReference = FDA13A312B9D452900676B0D /* demoTCA.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +381,11 @@
 				Base,
 			);
 			mainGroup = FDA13A282B9D452900676B0D;
+			packageReferences = (
+				FDA13A732BA8E8B600676B0D /* XCRemoteSwiftPackageReference "swift-dependencies" */,
+				FDA13A8E2BA9658900676B0D /* XCRemoteSwiftPackageReference "swift-composable-architecture" */,
+				FDA13A912BA96B0200676B0D /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = FDA13A322B9D452900676B0D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +428,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDA13A7C2BA8FF3000676B0D /* AsteroidDetialResponse.swift in Sources */,
+				FDA13A882BA9633800676B0D /* AsteroidDetailFeature.swift in Sources */,
 				FDA13A372B9D452900676B0D /* ContentView.swift in Sources */,
+				FDA13A612B9D47FC00676B0D /* HomeView.swift in Sources */,
+				FDA13A862BA9632F00676B0D /* AsteroidDetailView.swift in Sources */,
+				FDA13A7A2BA8F40900676B0D /* ViewState.swift in Sources */,
+				FDA13A6B2B9D4B7C00676B0D /* NetworCore.swift in Sources */,
+				FDA13A722BA8E51D00676B0D /* AsteroidService.swift in Sources */,
+				FDA13A8D2BA9651900676B0D /* MarsRoverListFeature.swift in Sources */,
+				FDA13A692B9D4B2500676B0D /* Endpoints.swift in Sources */,
+				FDA13A5F2B9D47EC00676B0D /* HomeFeature.swift in Sources */,
+				FDA13A952BAAB3B400676B0D /* AsteroidListView.swift in Sources */,
+				FDA13A8B2BA9650B00676B0D /* MarsRoverListView.swift in Sources */,
 				FDA13A352B9D452900676B0D /* demoTCAApp.swift in Sources */,
+				FDA13A812BA901E100676B0D /* MarsRoverService.swift in Sources */,
+				FDA13A842BA9611D00676B0D /* MarsRoverPhotosResponse.swift in Sources */,
+				FDA13A702B9D5DFE00676B0D /* AsteroidResponse.swift in Sources */,
+				FDA13A982BAAB3D100676B0D /* AsteroidListFeature.swift in Sources */,
+				FDA13A672B9D489A00676B0D /* ApiClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +454,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDA13A9B2BAAC86B00676B0D /* AsteroidListTests.swift in Sources */,
 				FDA13A462B9D452B00676B0D /* demoTCATests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,8 +611,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"demoTCA/Preview Content\"";
+				DEVELOPMENT_TEAM = NUT7SFZWGF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = demoTCA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -450,8 +641,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"demoTCA/Preview Content\"";
+				DEVELOPMENT_TEAM = NUT7SFZWGF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = demoTCA/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -582,6 +775,56 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FDA13A732BA8E8B600676B0D /* XCRemoteSwiftPackageReference "swift-dependencies" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pointfreeco/swift-dependencies";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.2;
+			};
+		};
+		FDA13A8E2BA9658900676B0D /* XCRemoteSwiftPackageReference "swift-composable-architecture" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pointfreeco/swift-composable-architecture";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.9.2;
+			};
+		};
+		FDA13A912BA96B0200676B0D /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FDA13A742BA8E8B600676B0D /* Dependencies */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FDA13A732BA8E8B600676B0D /* XCRemoteSwiftPackageReference "swift-dependencies" */;
+			productName = Dependencies;
+		};
+		FDA13A762BA8E8B600676B0D /* DependenciesMacros */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FDA13A732BA8E8B600676B0D /* XCRemoteSwiftPackageReference "swift-dependencies" */;
+			productName = DependenciesMacros;
+		};
+		FDA13A8F2BA9658900676B0D /* ComposableArchitecture */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FDA13A8E2BA9658900676B0D /* XCRemoteSwiftPackageReference "swift-composable-architecture" */;
+			productName = ComposableArchitecture;
+		};
+		FDA13A922BA96B0200676B0D /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FDA13A912BA96B0200676B0D /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FDA13A292B9D452900676B0D /* Project object */;
 }
